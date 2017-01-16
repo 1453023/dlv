@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ;(function () {
 
     'use strict';
@@ -13,7 +12,7 @@
             dots: false,
             margin: 29,
             autoplay: true,
-            stagePadding: 29.01,
+            stagePadding: 29.001,
             smartSpeed: 450
         });
     };
@@ -276,6 +275,5 @@
         $(".scroll-pagination .active").removeClass("active");
 
         $(".scroll-pagination").find("a[href=\"" + window.location.hash + "\"]").addClass("active");
-    });
-    
+    });    
 }());
