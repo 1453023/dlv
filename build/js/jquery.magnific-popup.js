@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*! Magnific Popup - v1.1.0 - 2016-02-20
 * http://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2016 Dmitry Semenov; */
@@ -1858,7 +1857,6 @@ $.magnificPopup.registerModule(RETINA_NS, {
 });
 
 /*>>retina*/
-=======
 /*! Magnific Popup - v1.1.0 - 2016-02-20
 * http://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2016 Dmitry Semenov; */
@@ -3718,5 +3716,4 @@ $.magnificPopup.registerModule(RETINA_NS, {
 });
 
 /*>>retina*/
->>>>>>> 86f070fabb8004b9357439422011e21e176a3c0c
  _checkInstance(); }));
