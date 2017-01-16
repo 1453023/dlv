@@ -10,7 +10,7 @@
             items: 1,
             loop: true,
             dots: false,
-            margin: 29,
+            margin: 29.9,
             autoplay: true,
             stagePadding: 29.001,
             smartSpeed: 450
