@@ -217,7 +217,7 @@ h3 {
   display: table;
   position: relative;
   width: 100%;
-	background: url(../img/bg-home.jpg) no-repeat center center scroll;
+	background: url(/build/img/bg-home.jpg) no-repeat center center scroll;
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -283,14 +283,14 @@ h3 {
 
 #dlv-member-1 {
 	background-color: #234577;
-  background-image: url(../img/members/bg-member-1.jpg);
+  background-image: url(/build/img/members/bg-member-1.jpg);
   
 }
 #dlv-member-2 {
 	background-color: #32673C;
-  background-image: url(../img/members/bg-member-2.jpg);
+  background-image: url(/build/img/members/bg-member-2.jpg);
 }
 #dlv-member-3 {
   background-color: #7B2D2D;
-  background-image: url(../img/members/bg-member-3.jpg);
+  background-image: url(/build/img/members/bg-member-3.jpg);
 }

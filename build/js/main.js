@@ -10,9 +10,9 @@
             items: 1,
             loop: true,
             dots: false,
-            margin: 29.9,
+            margin: 29,
             autoplay: true,
-            stagePadding: 29.001,
+            stagePadding: 30,
             smartSpeed: 450
         });
     };
